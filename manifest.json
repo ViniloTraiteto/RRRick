@@ -1,0 +1,11 @@
+{
+    "name":"Rapid_Reroller_Richard",
+	"author":"ViniloTraiteto",
+    "version_number": "1.0.2",
+    "website_url": "",
+    "description": "A random gun for each supply! Comes with free atachment and grenade.",
+    "dependencies": [
+        "DeliCollective-Deli-0.4.1",
+        "devyndamonster-TakeAndHoldTweaker-1.6.7"
+    ]
+}

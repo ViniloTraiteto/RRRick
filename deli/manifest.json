@@ -1,0 +1,18 @@
+{
+  "guid": "h3vr.tnhtweaker.rrerollerrichard",
+  "version": "1.0.2",
+  "require": "0.3.0",
+  "website_url": "",
+  "dependencies": {"h3vr.tnhtweaker.deli":"1.7.4"},
+  "name": "rrricky",
+  "description": "One free random weapon per supply. Swap em guns!",
+  "authors": [ 
+    "ViniloTraiteto" 
+  ],
+  "assets": {
+    "setup": {
+      "rrricky/": "h3vr.tnhtweaker.deli:character"
+    }
+  }
+
+}
