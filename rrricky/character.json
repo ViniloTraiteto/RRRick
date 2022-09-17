@@ -1321,43 +1321,6 @@
 							"Utility"
 						],
 						"SubGroups": []
-					},
-					{
-						"Category": "Thrown",
-						"Rarity": 0.074,
-						"RequiredQuest": null,
-						"ItemsToSpawn": 1,
-						"MinAmmoCapacity": -1,
-						"MaxAmmoCapacity": -1,
-						"NumMagsSpawned": 3,
-						"NumClipsSpawned": 3,
-						"NumRoundsSpawned": 8,
-						"SpawnMagAndClip": false,
-						"BespokeAttachmentChance": 0.5,
-						"IsCompatibleMagazine": false,
-						"AutoPopulateGroup": true,
-						"ForceSpawnAllSubPools": false,
-						"IDOverride": [
-							"MFSniperImpactFlash",
-							"MFSpySmokeGrenade"
-						],
-						"Eras": [],
-						"Sets": [],
-						"Sizes": [],
-						"Actions": [],
-						"Modes": [],
-						"ExcludedModes": [],
-						"FeedOptions": [],
-						"MountsAvailable": [],
-						"RoundPowers": [],
-						"Features": [],
-						"MeleeStyles": [],
-						"MeleeHandedness": [],
-						"MountTypes": [],
-						"PowerupTypes": [],
-						"ThrownTypes": [],
-						"ThrownDamageTypes": [],
-						"SubGroups": []
 					}
 				]
 			},
