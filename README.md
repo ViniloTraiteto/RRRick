@@ -1,8 +1,8 @@
 # Rapid Reroller Richard
 
-TnH Character based on Ricky Dicky Random but with extra attackers, encryptions and with a focus on constantly switching your arsenal.
+TnH Character based on Ricky Dicky Random but with extra attackers, encryptions and with a focus on switching your arsenal every hold.
 
-Each supply gives you a free attachment and grenade. You get ONE token per hold to claim extra ammo for one of your guns or an entirely new gun!
+Each supply gives you a free attachment and grenade. You get ONE token per hold to claim extra ammo for one of your guns or an entirely new gun with 5 mags or enough ammo to fill your pockets!
 Intended for 5 hold limited ammo mode but can work for endless limited ammo.
 
 (Completely loses its purpose if played on spawnlock but if you like it that way go on! I can't stop you!)
