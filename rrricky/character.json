@@ -15,8 +15,25 @@
 	"HasSecondaryItem": false,
 	"HasTertiaryItem": false,
 	"HasShield": true,
-	"ValidAmmoEras": [],
-	"ValidAmmoSets": [],
+	"ValidAmmoEras": [
+		"Colonial",
+		"WildWest",
+		"WW1",
+		"WW2",
+		"TurnOfTheCentury",
+		"PostWar",
+		"Modern",
+		"Futuristic",
+		"None"
+	],
+	"ValidAmmoSets": [
+		"GroundedFictional",
+		"MeatFortress",
+		"Meme",
+		"NonCombat",
+		"Real",
+		"SciFiFictional"
+	],
 	"GlobalAmmoBlacklist": [
 		"12GaugeShellRedFlare",
 		"23x75mmR_CSGas",
